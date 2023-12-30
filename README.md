@@ -1,10 +1,4 @@
-# ChemNotes <!-- omit from toc -->
-
-## 🔢 Table of Contents <!-- omit from toc -->
-- [📌 About](#-about)
-- [🔥 Features](#-features)
-- [❓ How to use](#-how-to-use)
-- [✉️ Enquiries](#️-enquiries)
+# ChemNotes 
   
 ## 📌 About
 ChemNotes is a collection of chemistry notes for the HKDSE, availble for free[^1]. It covers the topics in the HKDSE syllabus. It will be updated as the author learns more about chemistry and write the corresponding notes. It currently includes the following topics:
