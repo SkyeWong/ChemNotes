@@ -1,14 +1,11 @@
-# ChemNotes
+# ChemNotes <!-- omit from toc -->
 
-## 🔢 Table of Contents
-- [ChemNotes](#chemnotes)
-  - [🔢 Table of Contents](#-table-of-contents)
-  - [📌 About](#-about)
-  - [🔥 Features](#-features)
-  - [❓ How to use](#-how-to-use)
-  - [✉️ Enquiries](#️-enquiries)
-
-
+## 🔢 Table of Contents <!-- omit from toc -->
+- [📌 About](#-about)
+- [🔥 Features](#-features)
+- [❓ How to use](#-how-to-use)
+- [✉️ Enquiries](#️-enquiries)
+  
 ## 📌 About
 ChemNotes is a collection of chemistry notes for the HKDSE, availble for free[^1]. It covers the topics in the HKDSE syllabus. It will be updated as the author learns more about chemistry and write the corresponding notes. It currently includes the following topics:
 * Microscopic World I
@@ -32,7 +29,7 @@ ChemNotes is a collection of chemistry notes for the HKDSE, availble for free[^1
 
 ## 🔥 Features
 Clear mind maps showing a summary of the topic:
-![mind map of a topic](/assets/mindmap.png)
+![mind map of a topic](/assets/mind_map.png)
 
 Detailed question types of the topic:
 ![question types](/assets/question_types.png)
