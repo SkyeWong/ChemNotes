@@ -2,6 +2,8 @@
   
 ## 📌 About
 ChemNotes is a collection of chemistry notes for the HKDSE, availble for free[^1]. It covers the topics in the HKDSE syllabus. It will be updated as the author learns more about chemistry and write the corresponding notes. It currently includes the following topics:
+* Planet Earth
+    * Separating methods
 * Microscopic World I
     * Atoms, elements, and isotopes
     * The Periodic Table
@@ -19,7 +21,7 @@ ChemNotes is a collection of chemistry notes for the HKDSE, availble for free[^1
   * Calculation of pH and molarity
   * Acid-base reactions
   * Redox reactions related to acids
-  * Titration
+  * Titration and standard solutions
 
 ## 🔥 Features
 Clear mind maps showing a summary of the topic:
